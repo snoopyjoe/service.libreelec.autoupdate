@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<settings>
-    <category label="30101">
-        <setting id="enable" type="bool" label="30103" default="false"/>
-        <setting id="platform" type="select" label="30107" lvalues="30201|30203"/>
-    </category>
-
-</settings>
